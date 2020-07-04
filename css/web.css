@@ -1,0 +1,16 @@
+h1{
+    
+    font-size: 150%;
+}
+header{
+    text-align: center;
+}
+details{
+    font-style: italic;
+}
+summary{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url(/image.jpg);
+}
